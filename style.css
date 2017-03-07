@@ -313,9 +313,9 @@ select,
 textarea {
   color: #72727e;
   font-family: "Karla", sans-serif;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 400;
-  line-height: 1.5; }
+  line-height: 1.7; }
 
 h1, h2, h3, h4, h5, h6, form button,
 form input[type="button"],
@@ -346,30 +346,30 @@ form input[type="submit"], .comment-form label {
 
 .site-main h1 {
 /*  font-size: 2.8935em; }*/
-    font-size: 1em; }
+    font-size: 1.14em; }
   @media (max-width: 480px) {
     .site-main h1 {
       /*font-size: 1.929em; } }*/
-      font-size: 1em; } }
+      font-size: 1.14em; } }
 .site-main h2 {
-  font-size: 2.25em; }
+  font-size: 1.07em; }
   @media (max-width: 480px) {
     .site-main h2 {
-      font-size: 1.5em; } }
+      font-size: 1.07em; } }
 .site-main h3 {
-  font-size: 1.5em;
+  font-size: 1em;
   letter-spacing: 0.0501777168em; }
   @media (max-width: 480px) {
     .site-main h3 {
-      font-size: 1.286em; } }
+      font-size: 1em; } }
 .site-main h4 {
   font-size: 1em;
-  letter-spacing: 0.0877914952em; }
+  letter-spacing: 0.928em; }
 .site-main h5 {
-  font-size: 0.8573333333em;
+  font-size: 0.857em;
   letter-spacing: 0.0877914952em; }
 .site-main h6 {
-  font-size: 0.6666666667em;
+  font-size: 0.785em;
   letter-spacing: 0.1316872428em; }
 @media (min-width: 1100px) {
   .site-main h1, .site-main h2 {
@@ -1126,8 +1126,8 @@ blockquote.alignright {
   -moz-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out; }
   .site-branding h1 {
-    font-size: 0.6666666667em;
-    letter-spacing: 0.1316872428em;
+    font-size: 1em;
+    letter-spacing: 0.13em;
     margin: 0 0 0.4444444444em; }
     .site-branding h1 a {
       color: #ffffff;
@@ -1246,7 +1246,7 @@ blockquote.alignright {
 
 .entry-header .entry-meta,
 .entry-footer {
-  font-size: 0.6666666667em;
+  font-size: 0.714em;
   text-transform: uppercase;
   letter-spacing: 0.0501777168em;
   line-height: 1.5em;
@@ -1543,7 +1543,7 @@ blockquote.alignright {
     .site-footer .site-info li {
       display: inline-block;
       text-transform: none;
-      font-size: 0.5715555556em;
+      font-size: 0.785em;
       letter-spacing: 0.0501777168em;
       margin: 0 0.6666666667em; }
   .site-footer a {
